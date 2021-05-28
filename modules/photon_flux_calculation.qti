@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE qti>
+<qti app="QtiPlot" version="0.9.9.13" dpi="144" arch="Win32" script="Python" windows="3" expand="1">
+	<window type="1" name="experimental_data" date="2458161.4658658" x="23" y="17" w="922" h="403" active="1">
+		<tab rows="6" cols="6" labels="0">
+			<col name="annotation" type="6" num="0" prec="13" plot="0" width="156" stat="0" mask="1"/>
+			<col name="conversion/-" type="6" num="0" prec="13" plot="0" width="100" stat="0"/>
+			<col name="irr. time/s" type="6" num="0" prec="13" plot="1" width="86" stat="0"/>
+			<col name="irr. Vol/mL" type="6" num="0" prec="13" plot="1" width="87" stat="0"/>
+			<col name="photon flux/ mol/s" type="6" num="2" prec="2" plot="2" width="136" stat="0"/>
+			<col name="ext. phot. eff./%" type="0" num="1" prec="1" plot="7" width="100" stat="0"/>
+		</tab>
+	</window>
+	<window type="1" name="setup_properties" date="2458163.6628565" x="37" y="419" w="444" h="228">
+		<tab rows="7" cols="2" labels="0">
+			<col name="requested value" type="6" num="0" prec="13" plot="1" width="196" stat="0" data="actinometer concentration/M;optical path length/cm;power of lightsource/W;efficiency of lightsource/-;data of the lightsource;data of quantum yield;"/>
+			<col name="specific input" type="6" num="0" prec="13" plot="2" width="173" stat="0" data="0.16;1;1.4;1.03;NICHIA_U365.csv;chi_ferrioxalate.csv;"/>
+		</tab>
+	</window>
+	<window type="1" name="setup_properties-output" date="2458746.5479641" x="37" y="664" w="446" h="179">
+		<tab rows="5" cols="2" labels="0">
+			<col name="quantity" type="6" num="0" prec="13" plot="1" width="195" stat="0" data="emitted photon flux/ mol/s;minimum wavelength / nm;maximum wavelength / nm;specific photon flux / mol/s;"/>
+			<col name="value" type="6" num="0" prec="5" plot="2" width="132" stat="0" data="4.46255376500288e-06;333;430;4.46255376500288e-06;"/>
+		</tab>
+	</window>
+</qti>

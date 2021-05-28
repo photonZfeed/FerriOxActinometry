@@ -1,0 +1,7 @@
+The standard measurement cell
+
+The standard measurement cell serves as a reference for every freshly prepared batch solution of actinometer before irradiation in the photoreactor.
+
+The whole setup is arranged in a fully closed box that prevents influence by ambient light and operated under red light. It consists of two NICHIA NVSU233A UV SMD-LEDs (365 nm) on the opposite side of a cuvette with a path length of 1 cm. A precise actinometer volume of 2,5 mL is filled in. A push button switch outside the box allows to turn on and off the LED from outside the box for a certain amount of time (e.g. 1 s or 5 s). After irradiation and actinometer development, the absorbance is recorded to determine the conversion. 
+
+Using such a simple, fixed setup that always irradiates under the same conditions in a reference measurement, a library of individually standardized results can be build up. By comparing every fresh solution to the corresponding reference measurements, deviations can be initially tracked to prevent an unreliable set of experiments. In addition, this standardization prevents deviations due to small variances in external conditions in the laboratory, such as scattered or red light intensity and temperature.
