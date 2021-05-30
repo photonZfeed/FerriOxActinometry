@@ -10,6 +10,8 @@
 	at the Institute of Chemical Engineering, University Ulm. It correlates with the recommendations for
 	the experimental procedure described in the full paper "Common pitfalls in chemical actinometry", 
 	Journal of Flow Chemistry (2020) 10:295–306, DOI:10.1007/s41981-019-00072-7.
+	
+	Cite this repository: [![DOI](https://zenodo.org/badge/371474657.svg)](https://zenodo.org/badge/latestdoi/371474657)
 
 2. Installation
 
